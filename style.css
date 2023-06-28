@@ -1,0 +1,23 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+/* mobile first styles */
+body{
+    margin: 0;
+}
+
+img{
+    max-width: 100%;
+}
+.upper-section{
+    background-color: #F3EADA;
+    color: #010807;
+}
+.profile-image{
+    border-radius: 50%;
+    width: 50%;
+}
+/* project section */
+.card{
+    margin: 0 auto;
+}
