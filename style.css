@@ -9,6 +9,20 @@ body{
 img{
     max-width: 100%;
 }
+.image{
+    margin: 2rem auto;
+    width: 50%;
+}
+.container{
+    max-width: 992px;
+    width: 90%;
+}
+.centered{
+    text-align: center;
+}
+.description{
+    text-align: justify;
+}
 .upper-section{
     background-color: #F3EADA;
     color: #010807;
@@ -20,4 +34,7 @@ img{
 /* project section */
 .card{
     margin: 0 auto;
+}
+.body-section{
+    margin: 2rem 0;
 }
